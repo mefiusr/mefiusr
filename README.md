@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [mathews-r.github.io](mathews-r.github.io)
 
-- 👯 I’m looking for [Job](Job)
+- 👯 I’m looking for Job.
 
 - 💬 Ask me about **Investiments**
 
