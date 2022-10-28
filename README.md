@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-End**
 
-- 👨‍💻 All of my projects are available at [mathews-r.github.io](mathews-r.github.io)
+- 👨‍💻 All of my projects are available at https://mathews-r.github.io/
 
 - 👯 I’m looking for Job.
 
