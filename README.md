@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathews-r&label=Profile%20views&color=0e75b6&style=flat" alt="mathews-r" /> </p>
 
-- 🌱 I’m currently learning **Back-End**
+- 🌱 Atualmente estou estudando desenvolvimento **Full Stack**
 
-- 👨‍💻 All of my projects are available at https://mathews-r.github.io/
+- 👨‍💻 Alguns projetos estão disponíveis em https://mathews-r.github.io/
 
-- 👯 I’m looking for Job.
+- 👯 Estou em busca do primeiro emprego.
 
-- 💬 Ask me about **Investiments**
+- 📫 Entre em contato por **mathewsrodrigues9@gmail.com**
 
-- 📫 How to reach me **mathewsrodrigues9@gmail.com**
+- 💬 Curiosidades: **Vascaíno, fã de Fórmula 1 e adoro falar sobre investimentos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
