@@ -1,6 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou Mathews Rodrigues</h1>
 <h3 align="center">Desenvolvedor Back End</h3>
 
+Apaixonado por tecnologia, estou em transição de carreira para fazer aquilo que sempre sonhei.
+Trago um background da engenharia para área do desenvolvimento (resolver problemas).
+
+Sou estudante da Trybe, uma escola com metodologia focada no aprender a aprender, softskills e metodologias ágeis.
+Já conclui os módulos de Fundamentos Web, Front End e atualmente estou cursando Back End.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathews-r&label=Profile%20views&color=0e75b6&style=flat" alt="mathews-r" /> </p>
 
 - 🌱 Atualmente estou estudando desenvolvimento **Full Stack**
