@@ -1,11 +1,15 @@
 <h1 align="center">Olá 👋, Eu sou Mathews Rodrigues</h1>
 <h3 align="center">Desenvolvedor Back End</h3>
 
-Apaixonado por tecnologia, estou em transição de carreira para fazer aquilo que sempre sonhei.
-Trago um background da engenharia para área do desenvolvimento (resolver problemas).
+Olá! Meu nome é Mathews e atualmente estou em transição de carreira para a área de desenvolvimento web.
 
-Sou estudante da Trybe, uma escola com metodologia focada no aprender a aprender, softskills e metodologias ágeis.
-Já conclui os módulos de Fundamentos Web, Front End e atualmente estou cursando Back End.
+Eu sempre fui fascinado por tecnologia e computadores desde criança, mas acabei seguindo uma carreira diferente na minha vida adulta. No entanto, com o tempo, comecei a perceber que estava faltando algo na minha vida profissional - a paixão e o entusiasmo pelo trabalho que eu estava fazendo.
+
+Foi então que decidi que era hora de mudar de carreira e me dedicar a algo que eu realmente amo - programação e desenvolvimento web. Comecei a estudar Desenvolvimento Full Stack na Trybe.
+
+Hoje sou Desenvolvedor Back End com conhecimentos em NodeJS, Express, TypeScript, MySQL, Docker, MongoDB, Mongoose, Sequelize, POO, SOLID, JWT, Deploy, Metodologias Ágeis, Método SCRUM e outros.
+
+Estou animado com as possibilidades que essa nova carreira pode me oferecer e estou comprometido em seguir em frente, mesmo diante dos desafios.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathews-r&label=Profile%20views&color=0e75b6&style=flat" alt="mathews-r" /> </p>
 
