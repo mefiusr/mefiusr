@@ -23,6 +23,9 @@ Estou animado com as possibilidades que essa nova carreira pode me oferecer e es
 
 - 💬 Curiosidades: **Vascaíno, fã de Fórmula 1 e adoro falar sobre investimentos**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathews-r&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathews-r&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mathewsrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathewsrodriguez" height="30" width="40" /></a>
