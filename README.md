@@ -11,7 +11,9 @@ Hoje sou Desenvolvedor Back End com conhecimentos em NodeJS, Express, TypeScript
 
 Estou animado com as possibilidades que essa nova carreira pode me oferecer e estou comprometido em seguir em frente, mesmo diante dos desafios.
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathews-r&label=Profile%20views&color=0e75b6&style=flat" alt="mathews-r" /> </p>
+<br>
 
 - 🌱 Atualmente estou estudando desenvolvimento **Full Stack**
 
@@ -23,14 +25,39 @@ Estou animado com as possibilidades que essa nova carreira pode me oferecer e es
 
 - 💬 Curiosidades: **Vascaíno, fã de Fórmula 1 e adoro falar sobre investimentos**
 
+<br>
+<hr />
+<br>
+
+<table>
+<tr>
+<td height="20">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathews-r&theme=vue-dark&show_icons=true)
+
+</td>
+
+<td height="20">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathews-r&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</td>
+
+</tr>
+</table>
+
+<br>
+<hr />
+
 <h3 align="left">Connect with me:</h3>
+
+<br>
 <p align="left">
 <a href="https://twitter.com/mathewsrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathewsrodriguez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mathewsrodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathewsrodrigues" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
