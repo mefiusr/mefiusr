@@ -19,8 +19,6 @@ Estou animado com as possibilidades que essa nova carreira pode me oferecer e es
 
 - 👨‍💻 Alguns projetos estão disponíveis em https://mathews-r.github.io/
 
-- 👯 Estou em busca do primeiro emprego.
-
 - 📫 Entre em contato por **mathewsrodrigues9@gmail.com**
 
 - 💬 Curiosidades: **Vascaíno, fã de Fórmula 1 e adoro falar sobre investimentos**
