@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Mathews Rodrigues</h1>
 <h3 align="center">Desenvolvedor Back End</h3>
 
-Olá! Meu nome é Mathews e atualmente estou em transição de carreira para a área de desenvolvimento web.
-
 Eu sempre fui fascinado por tecnologia e computadores desde criança, mas acabei seguindo uma carreira diferente na minha vida adulta. No entanto, com o tempo, comecei a perceber que estava faltando algo na minha vida profissional - a paixão e o entusiasmo pelo trabalho que eu estava fazendo.
 
 Foi então que decidi que era hora de mudar de carreira e me dedicar a algo que eu realmente amo - programação e desenvolvimento web. Comecei a estudar Desenvolvimento Full Stack na Trybe.
