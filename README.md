@@ -5,7 +5,7 @@ Eu sempre fui fascinado por tecnologia e computadores desde criança, mas acabei
 
 Foi então que decidi que era hora de mudar de carreira e me dedicar a algo que eu realmente amo - programação e desenvolvimento web. Comecei a estudar Desenvolvimento Full Stack na Trybe.
 
-Hoje sou Desenvolvedor Back End com conhecimentos em NodeJS, Express, TypeScript, MySQL, Docker, MongoDB, Mongoose, Sequelize, POO, SOLID, JWT, Deploy, Metodologias Ágeis, Método SCRUM e outros.
+Hoje sou Desenvolvedor Back End com conhecimentos em NodeJS, Express, TypeScript, MySQL, Docker, MongoDB, Mongoose, Sequelize, POO, SOLID, JWT, Python, Django, Deploy, Metodologias Ágeis, Método SCRUM e outros.
 
 Estou animado com as possibilidades que essa nova carreira pode me oferecer e estou comprometido em seguir em frente, mesmo diante dos desafios.
 
