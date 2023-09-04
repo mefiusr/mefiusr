@@ -1,25 +1,25 @@
 <h1 align="center">Olá 👋, Eu sou Mathews Rodrigues</h1>
-<h3 align="center">Desenvolvedor Back End</h3>
+<h3 align="center">Um Desenvolvedor Back End apaixonado por tecnologia e programação desde a infância.</h3>
 
-Eu sempre fui fascinado por tecnologia e computadores desde criança, mas acabei seguindo uma carreira diferente na minha vida adulta. No entanto, com o tempo, comecei a perceber que estava faltando algo na minha vida profissional - a paixão e o entusiasmo pelo trabalho que eu estava fazendo.
+Embora minha carreira tenha começado em uma direção diferente, com o tempo percebi que minha verdadeira paixão estava na programação e no desenvolvimento web. Decidi fazer uma mudança de carreira e me aprofundei no mundo do desenvolvimento Full Stack por meio do programa de estudos da Trybe.
 
-Foi então que decidi que era hora de mudar de carreira e me dedicar a algo que eu realmente amo - programação e desenvolvimento web. Comecei a estudar Desenvolvimento Full Stack na Trybe.
+Hoje, atuo como Desenvolvedor Back End especializado em RPA (Robotic Process Automation), criando soluções de automação para processos empresariais por meio do RPA, com bots de software programados em C#. Minhas responsabilidades incluem a análise de processos, identificação de oportunidades de automação e o desenvolvimento de fluxos de trabalho automatizados eficientes.
 
-Hoje sou Desenvolvedor Back End com conhecimentos em NodeJS, Express, TypeScript, MySQL, Docker, MongoDB, Mongoose, Sequelize, POO, SOLID, JWT, Python, Django, Deploy, Metodologias Ágeis, Método SCRUM e outros.
+Além disso, tenho sólidos conhecimentos em tecnologias como C#, NodeJS, Express, TypeScript, MySQL, Docker, MongoDB, Mongoose, Sequelize, POO, SOLID, JWT, Python, Django, e também estou familiarizado com Metodologias Ágeis, incluindo o Método SCRUM.
 
-Estou animado com as possibilidades que essa nova carreira pode me oferecer e estou comprometido em seguir em frente, mesmo diante dos desafios.
+Estou animado com as infinitas possibilidades que essa carreira oferece e comprometido em enfrentar desafios com determinação.
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathews-r&label=Profile%20views&color=0e75b6&style=flat" alt="mathews-r" /> </p>
 <br>
 
-- 🌱 Atualmente estou estudando desenvolvimento **Full Stack**
+- 🌱 Estou constantemente aprimorando minhas habilidades em desenvolvimento **Back End**
 
-- 👨‍💻 Alguns projetos estão disponíveis em https://mathews-r.github.io/
+- 👨‍💻 Você pode conferir alguns dos meus projetos em https://mathews-r.github.io/
 
-- 📫 Entre em contato por **mathewsrodrigues9@gmail.com**
-
-- 💬 Curiosidades: **Vascaíno, fã de Fórmula 1 e adoro falar sobre investimentos**
+- 📫 Fique à vontade para entrar em contato pelo e-mail **mathewsrodrigues9@gmail.com**
+- 
+- 💬 Além da programação, sou **Vascaíno** apaixonado, adoro acompanhar a **Fórmula 1** e estou sempre disposto a discutir estratégias de **investimento**.
 
 <br>
 <hr />
@@ -64,7 +64,7 @@ Estou animado com as possibilidades que essa nova carreira pode me oferecer e es
   <td align="center"><p>TypeScript</p><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
 </td>
 
-  <td align="center"><p>JavaScript</p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
+  <td align="center"><p>C#</p><a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://learn.microsoft.com/pt-br/dotnet/csharp/)" target="_blank" rel="noreferrer"> <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="csharp" width="50" height="50"/> </a> 
 </td>
 
   <td align="center"><p>NodeJS</p><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  
