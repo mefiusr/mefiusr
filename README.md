@@ -13,7 +13,7 @@ Estou animado com as infinitas possibilidades que essa carreira oferece e compro
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathews-r&label=Profile%20views&color=0e75b6&style=flat" alt="mathews-r" /> </p>
 <br>
 
-- 🌱 Estou constantemente aprimorando minhas habilidades em desenvolvimento **Back End**
+- 🌱 Estou aprimorando minhas habilidades em desenvolvimento estudando **GoLang**
 
 - 👨‍💻 Você pode conferir alguns dos meus projetos em https://mathews-r.github.io/
 
