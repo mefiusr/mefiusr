@@ -64,7 +64,7 @@ Estou animado com as infinitas possibilidades que essa carreira oferece e compro
   <td align="center"><p>TypeScript</p><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
 </td>
 
-  <td align="center"><p>C#</p><a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://learn.microsoft.com/pt-br/dotnet/csharp/)" target="_blank" rel="noreferrer"> <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="csharp" width="50" height="50"/> </a> 
+  <td align="center"><p>Golang</p><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" width="50" height="50"/> </a> 
 </td>
 
   <td align="center"><p>NodeJS</p><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  
