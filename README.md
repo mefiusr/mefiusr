@@ -3,7 +3,9 @@
 
 Embora minha carreira tenha começado em uma direção diferente, com o tempo percebi que minha verdadeira paixão estava na programação e no desenvolvimento web. Decidi fazer uma mudança de carreira e me aprofundei no mundo do desenvolvimento Full Stack por meio do programa de estudos da Trybe.
 
-Hoje, atuo como Desenvolvedor Back End especializado em RPA (Robotic Process Automation), criando soluções de automação para processos empresariais por meio do RPA, com bots de software programados em C#. Minhas responsabilidades incluem a análise de processos, identificação de oportunidades de automação e o desenvolvimento de fluxos de trabalho automatizados eficientes.
+Atualmente, sou desenvolvedor na Capgemini, uma empresa multinacional de consultoria, tecnologia, serviços digitais e de engenharia. especializado em criar soluções inovadoras e eficientes para desafios complexos. 
+Com habilidades sólidas em desenvolvimento front-end e back-end, colaboro com equipes multidisciplinares para entregar produtos de alta qualidade que atendem às necessidades dos clientes. 
+Apaixonado por tecnologia, estou sempre buscando aprender e aplicar as mais recentes tendências e melhores práticas no desenvolvimento de software.
 
 Além disso, tenho sólidos conhecimentos em tecnologias como C#, NodeJS, Express, TypeScript, MySQL, Docker, MongoDB, Mongoose, Sequelize, POO, SOLID, JWT, Python, Django, e também estou familiarizado com Metodologias Ágeis, incluindo o Método SCRUM.
 
