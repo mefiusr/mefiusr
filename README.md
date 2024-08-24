@@ -14,8 +14,6 @@ Estou animado com as infinitas possibilidades que essa carreira oferece e compro
 
 - 🌱 Estou aprimorando minhas habilidades em desenvolvimento estudando **GoLang**
 
-- 👨‍💻 Você pode conferir alguns dos meus projetos em https://mathews-r.github.io/
-
 - 📫 Fique à vontade para entrar em contato pelo e-mail **mathewsrodrigues9@gmail.com**
 
 - 💬 Além da programação, sou **Vascaíno** apaixonado, adoro acompanhar a **Fórmula 1** e estou sempre disposto a discutir estratégias de **investimento**.
